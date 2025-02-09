@@ -3,4 +3,4 @@ Testing out github pages
 
 **bold** *italic*
 
-![image](/image.png)
+![image](/gee.png)
